@@ -59,6 +59,16 @@ Currently transitioning into **AI & Data Skills** while leveraging strong networ
 
 ---
 
+### 🚧 Projects
+I'm currently working on new projects focused on:
+- Artificial Intelligence and Data Analysis  
+- Python Automation & GitHub Workflows  
+- Power BI Dashboards and Visualization  
+
+Stay tuned — new repositories are coming soon! 🚀  
+
+---
+
 ### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sadeemd&show_icons=true&theme=tokyonight" height="165" />
