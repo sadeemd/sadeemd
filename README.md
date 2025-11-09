@@ -14,9 +14,9 @@ I am an IT Support & Network Engineer with over 10 years of hands-on experience 
 Currently transitioning into **AI & Data Skills** while leveraging strong networking and system administration background.
 
 📍 From Iraq  
-🎯 Goal: Work in Canada IT / AI industry  
+🎯 Goal: Work in IT / AI industry  
 📚 Learning: Python, AI fundamentals, Git & GitHub  
-🧠 Passion: Solving technical problems & providing remote support  
+🧠 Passion: Solving technical problems & providing support  
 
 ---
 
@@ -25,8 +25,7 @@ Currently transitioning into **AI & Data Skills** while leveraging strong networ
 #### 🚀 IT & Networking
 - IT Support & Help Desk
 - Troubleshooting & System Maintenance
-- Windows & Mac OS Administration
-- Network Configuration & Security
+- Network Configuration
 - Remote Support Tools & Ticketing Systems (CRM/Helpdesk)
 
 #### 🌐 Networking Stack
@@ -57,14 +56,14 @@ Currently transitioning into **AI & Data Skills** while leveraging strong networ
 ✅ AI & Python Learning  
 ✅ Building GitHub Portfolio  
 ✅ Remote IT Service Model  
-✅ Preparing for Canada work/study path  
+✅ Preparing for AI work/study path  
 
 ---
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=<YOUR_GITHUB_USERNAME>&show_icons=true&theme=tokyonight" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=<YOUR_GITHUB_USERNAME>&theme=tokyonight" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=<sadeemd>&show_icons=true&theme=tokyonight" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=<sadeemd>&theme=tokyonight" height="165" />
 </p>
 
 ---
@@ -78,11 +77,6 @@ Currently transitioning into **AI & Data Skills** while leveraging strong networ
 ### ☕ Support My Work
 If you like my journey & projects, you can support me:
 
-<p align="left">
-<a href="https://www.buymeacoffee.com/" target="_blank">
-<img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="150" >
-</a>
-</p>
 
 ---
 
