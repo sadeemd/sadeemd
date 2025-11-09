@@ -1,8 +1,8 @@
-<!-- Header with profile photo -->
+<!-- Header with profile photo 
 <p align="center">
   <img src="https://github.com/sadeemd/sadeemd/blob/main/profile.jpg" width="200" style="border-radius:100%" alt="Sadeem Dheyaa Profile"/>
 </p>
-
+-->
 <h1 align="center">Hi 👋, I'm Sadeem Dheyaa Shamsi</h1>
 
 <h3 align="center">IT Support & Network Engineer | AI Enthusiast</h3>
