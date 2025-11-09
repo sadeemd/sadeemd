@@ -56,7 +56,7 @@ Currently transitioning into **AI & Data Skills** while leveraging strong networ
 ✅ AI & Python Learning  
 ✅ Building GitHub Portfolio  
 ✅ Remote IT Service Model  
-✅ Preparing for AI work/study path  
+✅ Preparing for international remote opportunities in AI & IT fields  
 
 ---
 
