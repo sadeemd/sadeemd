@@ -4,7 +4,6 @@
 </p>
 -->
 <h1 align="center">Hi 👋, I'm Sadeem Dheyaa Shamsi</h1>
-
 <h3 align="center">IT Support & Network Engineer | AI Explorer</h3>
 
 ---
@@ -62,9 +61,10 @@ Currently transitioning into **AI & Data Skills** while leveraging strong networ
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=<sadeemd>&show_icons=true&theme=tokyonight" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=<sadeemd>&theme=tokyonight" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sadeemd&show_icons=true&theme=tokyonight" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sadeemd&theme=tokyonight" height="165" />
 </p>
+
 
 ---
 
