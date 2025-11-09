@@ -5,7 +5,7 @@
 -->
 <h1 align="center">Hi 👋, I'm Sadeem Dheyaa Shamsi</h1>
 
-<h3 align="center">IT Support & Network Engineer | AI Enthusiast</h3>
+<h3 align="center">IT Support & Network Engineer | AI Explorer</h3>
 
 ---
 
