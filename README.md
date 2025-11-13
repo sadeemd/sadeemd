@@ -3,9 +3,10 @@
   <img src="https://github.com/sadeemd/sadeemd/blob/main/profile.jpg" width="200" style="border-radius:100%" alt="Sadeem Dheyaa Profile"/>
 </p>
 -->
+
 <h1 align="center">Hi 👋, I'm Sadeem Dheyaa Shamsi</h1>
 <h3 align="center">IT Support & Network Engineer | AI Explorer</h3>
-  
+
 ---
 
 ### 👨‍💻 About Me
@@ -22,32 +23,32 @@ Currently transitioning into **AI & Data Skills** while leveraging strong networ
 ### 🛠️ Skills & Technologies
 
 #### 🚀 IT & Networking
-- IT Support & Help Desk
-- Troubleshooting & System Maintenance
-- Network Configuration
+- IT Support & Help Desk  
+- Troubleshooting & System Maintenance  
+- Network Configuration  
 - Remote Support Tools & Ticketing Systems (CRM/Helpdesk)
 
 #### 🌐 Networking Stack
-- Routing & Switching (Cisco)
-- MikroTik Configuration 
+- Routing & Switching (Cisco)  
+- MikroTik Configuration  
 - TCP/IP, VLANs, DHCP, DNS, VPN
 
 #### 🤖 AI / Dev Skills
-- Python (beginner to intermediate)
-- Machine Learning Fundamentals
-- Git & GitHub
+- Python (beginner to intermediate)  
+- Machine Learning Fundamentals  
+- Git & GitHub  
 - Power BI (in progress)
 
 ---
 
 ### 🎓 Certifications & Courses
-- CCNA (Cisco Certified Network Associate)
-- CCNP (Practical local & online training)
-- MTCNA – MikroTik Certified Network Associate
-- MTCRE – MikroTik Certified Routing Engineer
-- IT Desktop Support & Troubleshooting
-- Word, Java Basics, and Computer Fundamentals
-- Current Learning Tracks: IBM AI Track + GitHub Projects
+- CCNA (Cisco Certified Network Associate)  
+- CCNP (Practical local & online training)  
+- MTCNA – MikroTik Certified Network Associate  
+- MTCRE – MikroTik Certified Routing Engineer  
+- IT Desktop Support & Troubleshooting  
+- Word, Java Basics, and Computer Fundamentals  
+- Current Learning Tracks: IBM AI Track + GitHub Projects  
 
 ---
 
@@ -72,24 +73,25 @@ Stay tuned — new repositories are coming soon! 🚀
 ### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sadeemd&show_icons=true&theme=tokyonight" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sadeemd&theme=tokyonight" height="165" />
+  <img src="https://streak-stats.demolab.com/?user=sadeemd&theme=tokyonight" height="165" />
 </p>
- 
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sadeemd&layout=compact&theme=tokyonight" height="150"/>
+</p>
 
 ---
 
 ### 📫 Contact Me
-- 📧 Email: **sadeem.deyah2014@gmail.com**
-- 💼 LinkedIn: **https://www.linkedin.com/in/sadeem-dheyaa-209b36124/**
+- 📧 Email: **sadeem.deyah2014@gmail.com**  
+- 💼 LinkedIn: **https://www.linkedin.com/in/sadeem-dheyaa-209b36124/**  
 
 ---
 
 ### ☕ Support My Work
 If you like my journey & projects, you can support me:
 
-
 ---
 
 ### ⭐ Quote
 > "Technology is not just a tool — it’s a path to build your future."
-
