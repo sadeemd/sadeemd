@@ -69,15 +69,7 @@ I'm currently working on new projects focused on:
 Stay tuned — new repositories are coming soon! 🚀  
 
 ---
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sadeemd&show_icons=true&theme=tokyonight" height="165" />
-  <img src="https://streak-stats.demolab.com/?user=sadeemd&theme=tokyonight" height="165" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sadeemd&layout=compact&theme=tokyonight" height="150"/>
-</p>
 ---
 
 ### 📫 Contact Me
