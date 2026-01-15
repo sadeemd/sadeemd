@@ -1,93 +1,64 @@
-<!-- Header with profile photo 
-<p align="center">
-  <img src="https://github.com/sadeemd/sadeemd/blob/main/profile.jpg" width="200" style="border-radius:100%" alt="Sadeem Dheyaa Profile"/>
-</p>
--->
-
-<h1 align="center">Hi 👋, I'm Sadeem Dheyaa Shamsi</h1>
-<h3 align="center">IT Support & Network Engineer | AI Explorer</h3>
+<h1 align="center">Hi, I'm Sadeem Dheyaa Shamsi</h1>
+<h3 align="center">IT Support & Network Engineer | AI & Data Explorer</h3>
 
 ---
 
-### 👨‍💻 About Me
-I am an IT Support & Network Engineer with over 10 years of hands-on experience in supporting users, managing networks, troubleshooting systems, and building modern technical workflows.  
-Currently transitioning into **AI & Data Skills** while leveraging strong networking and system administration background.
+## About Me
+I am an IT Support & Network Engineer with 10+ years of hands-on experience supporting users, troubleshooting systems, and managing networks.  
+Currently, I am transitioning into **AI & Data Skills**, leveraging a strong networking and system administration background.
 
-📍 From Iraq  
-🎯 Goal: Work in IT / AI industry  
-📚 Learning: Python, AI fundamentals, Git & GitHub  
-🧠 Passion: Solving technical problems & providing support  
+- 📍 Iraq  
+- 🎯 Target roles: Remote IT Support / AI & Data (Entry-Level)  
+- 📚 Learning: Python, AI fundamentals, Git & GitHub, Power BI  
+- 🧠 Strength: Problem solving, troubleshooting, and user support  
 
 ---
 
-### 🛠️ Skills & Technologies
+## Skills
 
-#### 🚀 IT & Networking
+### IT Support & Networking
 - IT Support & Help Desk  
 - Troubleshooting & System Maintenance  
-- Network Configuration  
-- Remote Support Tools & Ticketing Systems (CRM/Helpdesk)
+- Remote Support Tools & Ticketing Systems  
+- Network Configuration & Monitoring  
 
-#### 🌐 Networking Stack
+### Networking Stack
 - Routing & Switching (Cisco)  
 - MikroTik Configuration  
-- TCP/IP, VLANs, DHCP, DNS, VPN
+- TCP/IP, VLANs, DHCP, DNS, VPN  
 
-#### 🤖 AI / Dev Skills
-- Python (beginner to intermediate)  
+### AI / Data Tools
+- Python (beginner → intermediate)  
 - Machine Learning Fundamentals  
 - Git & GitHub  
-- Power BI (in progress)
+- Power BI (in progress)  
 
 ---
 
-### 🎓 Certifications & Courses
+## Certifications
 - CCNA (Cisco Certified Network Associate)  
-- CCNP (Practical local & online training)  
-- MTCNA – MikroTik Certified Network Associate  
-- MTCRE – MikroTik Certified Routing Engineer  
+- CCNP (Practical training – local & online)  
+- MTCNA (MikroTik Certified Network Associate)  
+- MTCRE (MikroTik Certified Routing Engineer)  
 - IT Desktop Support & Troubleshooting  
-- Word, Java Basics, and Computer Fundamentals  
-- Current Learning Tracks: IBM AI Track + GitHub Projects  
 
 ---
 
-### 📌 Current Focus
-✅ AI & Python Learning  
-✅ Building GitHub Portfolio  
-✅ Remote IT Service Model  
-✅ Preparing for international remote opportunities in AI & IT fields  
+## Projects
+- **Smart Expenses Project** — Python + Data Analysis *(in progress)*  
+- **Daily Python Labs** — NumPy, Pandas, Automation *(ongoing)*  
 
 ---
 
-### 🚧 Projects
-I'm currently working on new projects focused on:
-- Artificial Intelligence and Data Analysis  
-- Python Automation & GitHub Workflows  
-- Power BI Dashboards and Visualization  
-
-Stay tuned — new repositories are coming soon! 🚀  
-
----
-### 📊 GitHub Stats
+## GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sadeemd&show_icons=true&theme=tokyonight" height="165" />
-<!--  <img src="https://streak-stats.demolab.com/?user=sadeemd&theme=tokyonight" /> -->
 </p>
 
-
 ---
 
-### 📫 Contact Me
-- 📧 Email: **sadeem.deyah2014@gmail.com**  
-- 💼 LinkedIn: **https://www.linkedin.com/in/sadeem-dheyaa-209b36124/**  
+## Contact
+- Email: **sadeem.deyah2014@gmail.com**  
+- LinkedIn: [Sadeem Dheyaa Shamsi](https://www.linkedin.com/in/sadeem-dheyaa-209b36124/)
 
----
-
-### ☕ Support My Work
-If you like my journey & projects, you can support me:
-
----
-
-### ⭐ Quote
 > "Technology is not just a tool — it’s a path to build your future."
