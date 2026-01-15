@@ -47,14 +47,14 @@ Currently, I am transitioning into **AI & Data Skills**, leveraging a strong net
 ## Projects
 - **Smart Expenses Project** — Python + Data Analysis *(in progress)*  
 - **Daily Python Labs** — NumPy, Pandas, Automation *(ongoing)*  
-
+<!--
 ---
 
 ## GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sadeemd&show_icons=true&theme=tokyonight" height="165" />
 </p>
-
+-->
 ---
 
 ## Contact
