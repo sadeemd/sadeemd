@@ -9,7 +9,7 @@ Currently, I am transitioning into **AI & Data Skills**, leveraging a strong net
 
 - 📍 Iraq  
 - 🎯 Target roles: Remote IT Support / AI & Data (Entry-Level)  
-- 📚 Learning: Python, AI fundamentals, Git & GitHub, Power BI  
+- 📚 Learning: Python, AI fundamentals, Git & GitHub
 - 🧠 Strength: Problem solving, troubleshooting, and user support  
 
 ---
