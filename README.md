@@ -1,15 +1,15 @@
 <h1 align="center">Hi, I'm Sadeem Dheyaa Shamsi</h1>
-<h3 align="center">IT Support & Network Engineer | AI & Data Explorer</h3>
+<h3 align="center">IT Support Specialist | Network Engineer | Assistant Lecturer</h3>
 
 ---
 
 ## About Me
 I am an IT Support & Network Engineer with 10+ years of hands-on experience supporting users, troubleshooting systems, and managing networks.  
-Currently, I am transitioning into **AI & Data Skills**, leveraging a strong networking and system administration background.
+Currently working as an Assistant Lecturer at the University of Babylon while continuing to develop my skills in IT support, networking, and system administration.
 
 - 📍 Iraq  
-- 🎯 Target roles: Remote IT Support / AI & Data (Entry-Level)  
-- 📚 Learning: Python, AI fundamentals, Git & GitHub
+- 🎯 Target Roles: IT Support • Help Desk • Technical Support • Network Engineer  
+- 📚 Learning: Python, Git & GitHub, Power BI, SQL
 - 🧠 Strength: Problem solving, troubleshooting, and user support  
 
 ---
@@ -27,11 +27,16 @@ Currently, I am transitioning into **AI & Data Skills**, leveraging a strong net
 - MikroTik Configuration  
 - TCP/IP, VLANs, DHCP, DNS, VPN  
 
-### AI / Data Tools
-- Python (beginner → intermediate)  
-- Machine Learning Fundamentals  
-- Git & GitHub  
-- Power BI (in progress)  
+### Technical Skills
+- Windows Administration
+- IT Support
+- Network Troubleshooting
+- Cisco Networking
+- MikroTik
+- Python (Basic)
+- SQL (Basic)
+- Power BI (Basic)
+- Git & GitHub
 
 ---
 
@@ -44,9 +49,13 @@ Currently, I am transitioning into **AI & Data Skills**, leveraging a strong net
 
 ---
 
-## Projects
-- **Smart Expenses Project** — Python + Data Analysis *(in progress)*  
-- **Daily Python Labs** — NumPy, Pandas, Automation *(ongoing)*  
+### Projects
+
+- **Smart Expenses Tracker**
+  - Developed a simple Python application to manage daily expenses and practice data handling concepts.
+
+- **Python Practice Labs**
+  - Built small Python programs to improve problem-solving, automation, and programming fundamentals.
 <!--
 ---
 
@@ -61,4 +70,4 @@ Currently, I am transitioning into **AI & Data Skills**, leveraging a strong net
 - Email: **sadeem.deyah2014@gmail.com**  
 - LinkedIn: [Sadeem Dheyaa Shamsi](https://www.linkedin.com/in/sadeem-dheyaa-209b36124/)
 
-> "Technology is not just a tool — it’s a path to build your future."
+> "Committed to continuous learning and delivering reliable IT solutions."
